@@ -1,0 +1,29 @@
+add my name as Swapnil Pakhare, address pune, contact no.- 8796162772. im a computer engineer looking for career opportunity in IT field, for software developer. my Technical skills are Java, HTML,CSS, SQL,SpringBoot,Hibernate,Rest-API's. My skills are activeness, communication,management skill,Active listening,teamwork,Flexibility.
+give me a cover letter by refering above information
+
+
+Swapnil Pakhare
+Pune, Maharashtra
+Contact: +91 8796162772
+Email: [Your Email Address]
+Date: [Today's Date]
+
+Hiring Manager
+Beinex
+[Company Address]
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Trainee Data Engineer position at Beinex, as advertised. With a strong foundation in computer engineering and hands-on experience in key technical skills such as Java, HTML, CSS, SQL, MySQL, Spring Boot, Hibernate, and REST APIs, I am confident that I can contribute effectively to your team. I am eager to begin my career in Data Engineering and can join immediately.
+
+As a recent graduate, I have honed my skills in problem-solving, software development, and database management through academic projects and internships. My proficiency in Java and SQL, combined with a solid understanding of backend frameworks like Spring Boot and Hibernate, ensures that I can quickly adapt to the demands of the data engineering field. I am passionate about learning new technologies and am particularly excited about how data engineering contributes to business intelligence and decision-making.
+
+In addition to my technical skills, I bring a proactive attitude, strong communication abilities, and excellent management skills. My strengths in active listening, teamwork, and flexibility allow me to collaborate effectively in fast-paced, dynamic environments, ensuring successful project outcomes.
+
+I am excited about the opportunity to work with Beinex, a company known for its cutting-edge data solutions, and I am eager to contribute to your team’s success. I look forward to the possibility of discussing how my skills and enthusiasm align with your company’s goals.
+
+Thank you for considering my application. I am available for an interview at your earliest convenience and can be reached at +91 8796162772 or via email. I am enthusiastic about the opportunity to join Beinex as a Trainee Data Engineer and contribute immediately.
+
+Sincerely,
+Swapnil Pakhare
+
